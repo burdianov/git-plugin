@@ -1,0 +1,10 @@
+{
+    "name" : "Git Plugin",
+    "slug" : "git-plugin",
+    "download_url" : "http://example.com/plugins/my-cool-plugin.zip",
+    "version" : "1.0.0",
+    "author" : "Lilian Burdianov",
+    "sections" : {
+        "description" : "Plugin for testing Git based updates."
+    }
+}
